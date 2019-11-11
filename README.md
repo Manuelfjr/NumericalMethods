@@ -1,3 +1,4 @@
+
 # NumericalMethods
 Repository with implementation of numerical methods
 
@@ -15,4 +16,4 @@ $ X \sim $
 
 - .bis(a, b, f)
 
-Also known as binary truncation, or Bolzano method, suppose the interval $ [a,b] $ contains a single root for '$ f(x) = 0 $'
+Also known as binary truncation, or Bolzano method, suppose the interval _**a**_ and _**b**_ contains a single root for _**f(x) = 0**_
